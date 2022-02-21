@@ -1,0 +1,20 @@
+{
+    "name": "maxim/simple-package",
+    "description": "Simple package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Maxim\\SimplePackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anosovm",
+            "email": "m.anosov@napopravku.ru"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "ext-mbstring": "*"
+    }
+}

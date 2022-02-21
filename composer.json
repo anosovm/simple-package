@@ -1,5 +1,5 @@
 {
-    "name": "maxim/simple-package",
+    "name": "anosovm/simple-package",
     "description": "Simple package",
     "type": "library",
     "autoload": {

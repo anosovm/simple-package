@@ -11,5 +11,5 @@ Default package, created by junior web developer
 ## Install
 
 ```sh
-composer require anosovm/simpler-package
+composer require anosovm/simple-package
 ```
